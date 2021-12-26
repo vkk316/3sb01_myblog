@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AESTHETIC
+title: V_CACTUS_DIARY
 email: 6210110107@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   Humans are wired differently, and as you will see, plants too. Some people are morning persons, and others aren’t. Others are more productive during the day and others during the night. 
