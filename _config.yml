@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: AESTHETIC
+email: 6210110107@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Humans are wired differently, and as you will see, plants too. Some people are morning persons, and others aren’t. Others are more productive during the day and others during the night. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "vkk316.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -33,6 +31,10 @@ github_username:  jekyll
 theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+
+defaults:
+  home:
+    banner: "https://lh3.googleusercontent.com/ySpuYCtnkVrFtYsTOOhOcCcdi4LGQvdSG6FKILTCzijHaQdGleuHtCLv9YJfVPX5BpNyD_pTVT8xgcxU7BJlkpSJWcVjARMwqnXxpebeOywgri8cb31MMpiYrKZ4-gTpf7u2m864WvLF5Ry5yWuZSvFCanxHa4bHnxe-7UPhPx-sxRs23bXOD42hLJQCCQuZfYCyTr1zEiMD0mfDVpUaTuUANxAKzsKV6lA9Kqtc_3TU7q1rmZuD_L2Mb18gaW0pg_p4OHuk5-Vtz5IBdp_M60IldW56mj_ezRF_u6rj7gTZanRjpQBY6ZXFcwDngRF8rjc2BPHBNIbM4k1qvTEhilWVCzggIa26OuWoj4Nz5VtHcYqxCmqPa18iJuuPDAdYAYddT5ga16skKtb0pMVl_llOJuZdyuBMDl5dxLL-Y1a6EgOdf3N75znZpmFo2lr4SVLVhW1RbobwuiDbqZkxT_FG4P7B_1hTv-E9b5yoMjziZFqW58sVt9k1WBE_iWD0hESb420UqLlsQgheD7rJbDJJgl39TnVooMkDmauhQRYSGi2vNBbSzwDkS--tFvJ4Yd1oIyRzOZ8iF88Mf61oxV0hCO86YFV3Afi9qOxOg_9dX03TAa6DL3NGAVcEmLTbUGqj-dXdB9_XCmtpY0GWqP8YaZ_gcO72N_M-mZ3lWJKOcR3uTGdMzLQ6T3FtsUkArWeCbQOjtVVQZJ4GcC_z1jzc=w1366-h655-no?authuser=0"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
