@@ -22,8 +22,8 @@ title: V_CACTUS_DIARY
 email: 6210110107@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   Humans are wired differently, and as you will see, plants too. Some people are morning persons, and others aren’t. Others are more productive during the day and others during the night. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "vkk316.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "v_cactus_diary" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
