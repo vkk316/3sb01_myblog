@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About me
 ---
 
 ## Hi there 👋, my name is NUTTANAI YAPRAJAN
